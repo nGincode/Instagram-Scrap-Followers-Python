@@ -5,10 +5,18 @@
 pip --version
 ```
 3. Jika tidak muncul pip version, ulangi sampai bisa
-4. Setelah berhasil, Buka cmd ketik
+4. Download file ini dengan klik code (tombol warna biru) lalu download zip
+5. Setelah download file tersebut. klik extrak (Kelurakan file data) file zip tersebut bebas dimana saja namun untuk lebih mudah letakan file hasil extrak tadi ke directory C. buat dulu folder di directory C misalkan scrab-foll lalu letakan di folder itu. 
+6. Setelah berhasil, Buka cmd ketik
 
+```
+cd /scrab-foll
+```
+*Mengarahkan cmd ke folder program
+
+7. Setelah itu masukkan perintah dibawah ke cmd folder atas
 ```
 pip install -r requirements.txt
 ```
 
-5. Langkah Terakhir, jalankan run.py menggunakan python bisa di klik open with > python
+6. Langkah Terakhir, jalankan run.py menggunakan python bisa di klik open with > python
