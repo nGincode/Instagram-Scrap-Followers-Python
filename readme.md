@@ -12,7 +12,7 @@ pip --version
 ```
 cd /scrab-foll
 ```
-*Mengarahkan cmd ke folder program
+*Mengarahkan cmd ke folder program maka akan tampil C:\scrab-foll>
 
 7. Setelah itu masukkan perintah dibawah ke cmd folder atas
 ```
