@@ -19,4 +19,8 @@ cd /scrab-foll
 pip install -r requirements.txt
 ```
 
-6. Langkah Terakhir, jalankan run.py menggunakan python bisa di klik open with > python
+6. Langkah Terakhir, jalankan run.py menggunakan python bisa di klik open with > python atau bisa juga di jalankan lewat terminal tadi pada C:\scrab-foll> maka ketik :
+
+```
+run.py
+```
