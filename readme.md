@@ -5,7 +5,7 @@
 pip --version
 ```
 3. Jika tidak muncul pip version, ulangi sampai bisa
-4. Download file ini dengan klik code (tombol warna biru) lalu download zip
+4. Download file ini dengan klik code (tombol warna hijau) lalu download zip
 5. Setelah download file tersebut. klik extrak (Kelurakan file data) file zip tersebut bebas dimana saja namun untuk lebih mudah letakan file hasil extrak tadi ke directory C. buat dulu folder di directory C misalkan scrab-foll lalu letakan di folder itu. 
 6. Setelah berhasil, Buka cmd ketik
 
