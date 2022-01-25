@@ -1,4 +1,4 @@
-## Scrab Data Followers Instagram Menggunakan Bahasa Pemograman Python
+# Scrab Data Followers Instagram Menggunakan Bahasa Pemograman Python
 1. Instal Python di windows (https://www.python.org/) atau dapat kunjungi link berikut (https://www.petanikode.com/python-windows/)
 2. Pastikan pip (perintah dasar terminal python) terbaca di terminal windows dengan cara ketik cmd di search windows masukkan
 ```
