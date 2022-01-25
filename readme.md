@@ -1,4 +1,7 @@
 # Scrab Data Followers Instagram Menggunakan Bahasa Pemograman Python
+        Hay.. Perkenalkan nama saya fembi nur ilham. saya merupakan mahasiswa universitas bengkulu di prodi Agribisnis. saya membangun ini untuk tujuan mempermudah penelitian saya mengenai followers yang ada di instagram. ini dibangun menggunakan python yaitu bahasa pemograman yang sangat populer di 2020 ini. semoga dengan ini bisa mempermudah penelitian saya dan membantu penelitian yang akan datang untuk meneliti tentang followers instagram sehingga akan lebih banyak penelitian kedepannya yang memanfaatkan teknologi untuk indenesia lebih maju.
+
+# Tutorial Pemasangan & Menggunakan
 1. Instal Python di windows (https://www.python.org/) atau dapat kunjungi link berikut (https://www.petanikode.com/python-windows/)
 2. Pastikan pip (perintah dasar terminal python) terbaca di terminal windows dengan cara ketik cmd di search windows masukkan
 ```
