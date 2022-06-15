@@ -4,3 +4,7 @@ chardet
 idna
 requests
 urllib3
+colorama
+termcolor
+progressbar
+tqdm
