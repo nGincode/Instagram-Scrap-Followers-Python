@@ -104,7 +104,8 @@ def progress(percent=0, width=40):
 def cekakunterakhir(name):
     akunakhir = 'false'
     while (akunakhir == 'false'):
-        konfirmasi = input("Lanjutkan Proses Ketik 'ya' Untuk Melanjutkan: ")
+        konfirmasi = input(
+            "Lanjutkan Proses Sebelumnya, Ketik 'ya' Untuk Melanjutkan: ")
 
         if konfirmasi == 'ya':
             try:
