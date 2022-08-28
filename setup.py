@@ -81,7 +81,7 @@ def ceklogin():
             print(
                 '--------------------------------------------------------------------------------\n')
             print(
-                colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'blue'))
+                colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'white'))
             print(
                 '--------------------------------------------------------------------------------\n')
         except:
@@ -168,7 +168,7 @@ print(
 print(
     '--------------------------------------------------------------------------------\n')
 print(
-    colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'blue'))
+    colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'white'))
 print(
     '--------------------------------------------------------------------------------\n')
 
@@ -264,7 +264,7 @@ for ind in range(len(PROFILE)):
                     print(
                         '--------------------------------------------------------------------------------\n')
                     print(
-                        colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'blue'))
+                        colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'white'))
                     print(
                         '--------------------------------------------------------------------------------\n')
                     print('Total akun berhasil diambil:',
