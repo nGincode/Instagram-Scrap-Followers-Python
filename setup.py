@@ -52,7 +52,7 @@ def ceklogin():
         print(
             '--------------------------------------------------------------------------------\n')
         print(
-            colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'blue'))
+            colored('**-- Aplikasi Scrab Data Followers By Fembi Nur Ilham --**', 'white'))
         print(
             '--------------------------------------------------------------------------------\n')
         print("Masukkan Akun Instagram Untuk Login")
@@ -210,13 +210,14 @@ for ind in range(len(PROFILE)):
                 file_read = csv.reader(csvf)
                 for row in file_read:
                     dtuser.append(row[1])
-            print(dtuser)
 
             cek = 'true'
             for cekuser in dtuser:
                 if cekuser == person.username:
                     cek = 'false'
+                    print('')
                     print(person.username + ' Telah Ada')
+                    print('')
 
             if cek == 'true':
                 try:
@@ -273,7 +274,6 @@ for ind in range(len(PROFILE)):
                     print('Waktu:', str(datetime.timedelta(
                         seconds=(round(timer()-start)))))
                     # print('Current Account:', ind+1, '\t Remaining Accounts:', len(PROFILE)-ind-1, '\nAccount Name:', pro)
-
                     progress(round(total/main_followers*100))
 
                 except Exception as e:
